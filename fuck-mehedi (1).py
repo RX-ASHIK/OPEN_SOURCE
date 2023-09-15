@@ -1,5 +1,7 @@
-#HR1DOYE
-from bs4 import BeautifulSoup as sop
+#DEC BYB:- ASHIK CHOWDHURY
+#GITHUB:- RX-ASHIK
+#FUCK YOU MEHEDI 
+#TUTUL AR BAP ASHIK 😈from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
 import random
